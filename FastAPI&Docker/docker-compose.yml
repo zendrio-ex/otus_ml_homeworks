@@ -1,0 +1,10 @@
+version: "3"
+services:
+  prediction_service:
+    build: ./
+    restart: no
+    volumes:
+      - ./just_example_volume:/app/logging
+    ports:
+      - 8000:8000
+    container_name: prediction_service

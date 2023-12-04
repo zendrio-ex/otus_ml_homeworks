@@ -1,0 +1,11 @@
+{
+    "default": {
+        "google_drive": "https://drive.google.com/drive/folders/19BaPt0biYV4cRhEcY_S9eMSFszR0QYEm"
+    },
+    "development": {
+        "key": {
+            "API_KEY": "123",
+            "IT_WILL_BE_IN_SETTINGS_LOCAL_JSON_IN_REAL_PROJECT": ""
+        }
+    }
+}
